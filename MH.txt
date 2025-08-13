@@ -570,4 +570,5 @@ function menu() {
 </table>
 <?php
 }
+
 ?>
